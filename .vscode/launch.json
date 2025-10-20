@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https://github.com/jaeffson/appMedlog",
+            "request": "launch",
+            "url": "https://github.com/jaeffson/appMedlog"
+        }
+    ]
+}
